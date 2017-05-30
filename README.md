@@ -55,7 +55,7 @@ Normalised reads counts        | 2017-Balmas-Colucci_DESeq2_NormalisedCounts.csv
 
 Description   | URL
 ------------- | ----------
-Publication   | [Journal](http://) [DOI](http://)
+Publication   | [Journal](http://) and [DOI](http://)
 Raw Data      | [European Nucleotide Archive](http://www.ebi.ac.uk/ena)
 Colucci Group | [Colucci group website](http://moffettcoluccilab.org/francesco-colucci/)
 
