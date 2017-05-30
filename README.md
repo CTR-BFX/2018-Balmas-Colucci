@@ -28,24 +28,37 @@ Feature_counts | http://www.ncbi.nlm.nih.gov/pubmed/24227677
 Qualimap       | https://doi.org/10.1093/bioinformatics/bts503
 Preseq         | http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2375.html
 
-A custom module for TopHat2 double map is provided in this repository, and can be run, by copying it into the modules directory of a ClusterFlow installation. With HTSeq-Counts gene count tables figures in the table below can be reproduced with the R scripts provided in this repository.
+A custom module for TopHat2 double map is provided in this repository, and can be run, by copying it into the modules directory of a ClusterFlow installation. With HTSeq-Counts gene count tables figures in the table below can be reproduced with the R script provided in this repository.
 
-### Scripts to reproduce paper figures ###
+### Script to reproduce paper figures ###
 
-The provided R scripts assume the scripts are places in a directory with a subdirectory (HTSeq_Counts) containing the htseq-counts files (one per sample).
+The provided R script assumes the script is placed in a directory containing a subdirectory (called HTSeq_Counts) with all the htseq-counts files (one per sample). The script can be run interactively in R-studio or as a batch using Rscript. Note that some of the figures in the manuscript have had some label positions moved manually to prevent overlaps.
 
-Figure    | Description | R script
---------- | ----------- | -----------
-Figure 3A | PCA         | Balmas-Colucci-Figure3.R
-Figure 3B | MA Plot     | Balmas-Colucci-Figure3.R
-Figure 4A | Heatmap     | Balmas-Colucci-Figure4.R
-Figure 4B | MA Plot     | Balmas-Colucci-Figure4.R
-Figure 4D | MA Plot     | Balmas-Colucci-Figure4.R
+Figure    | Description | Output Filename
+--------- | ----------- | ------------------------
+Figure 3A | PCA         | 2017-Balmas-Colucci_DESeq2_Annotated_PCA_Fig3A.pdf
+Figure 3B | MA Plot     | 2017-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Uterine_Others_Fig3B.pdf
+Figure 4A | Heatmap     | 2017-Balmas-Colucci_DESeq2_CountMatrixHeatmap_topDEGs_lf7.5sig0.05_Fig4A.pdf
+Figure 4B | MA Plot     | 2017-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Virgin_E9.5_Fig4B.pdf
+Figure 4D | MA Plot     | 2017-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Virgin_E18.5_Fig4D.pdf
 
-### Links
+Additional Data
+
+Description                    | Output Filename
+------------------------------ | ------------------------
+DEG Results: Uterine_vs_Others | 2017-Balmas-Colucci_DESeq2_DEGs_Uterine_vs_Others.csv
+DEG Results: Virgin_vs_E18.5   | 2017-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E18.5.csv
+DEG Results: Virgin_vs_E9.5    | 2017-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E9.5.csv
+Normalised reads counts        | 2017-Balmas-Colucci_DESeq2_NormalisedCounts.csv
+
+### Links ###
 
 Description   | URL
 ------------- | ----------
 Publication   | [Journal](http://) [DOI](http://)
 Raw Data      | [European Nucleotide Archive](http://www.ebi.ac.uk/ena)
 Colucci Group | [Colucci group website](http://moffettcoluccilab.org/francesco-colucci/)
+
+### Contact ###
+
+Contact rsh46 -at- cam.ac.uk for bioinformatics related queries
