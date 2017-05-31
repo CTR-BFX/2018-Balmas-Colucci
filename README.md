@@ -51,12 +51,34 @@ DEG Results: Virgin_vs_E18.5   | 2017-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E18.5
 DEG Results: Virgin_vs_E9.5    | 2017-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E9.5.csv
 Normalised reads counts        | 2017-Balmas-Colucci_DESeq2_NormalisedCounts.csv
 
+### Sample Table ###
+
+
+sampleName   | fileName                                | condition  | cell | tissue  | ENA Unique ID
+------------ | --------------------------------------- | ---------- | ---- | ------- | -------------
+SLX-10383.01 | SLX-10383.L2DRBC01 ... htseq_counts.txt | Virgin     | ILC2 | Uterine | CTR_fc287_0002_01
+SLX-10383.02 | SLX-10383.L2DRBC02 ... htseq_counts.txt | Virgin     | ILC2 | Uterine | CTR_fc287_0002_02
+SLX-10383.03 | SLX-10383.L2DRBC03 ... htseq_counts.txt | Virgin     | ILC2 | Uterine | CTR_fc287_0002_03
+SLX-10383.04 | SLX-10383.L2DRBC04 ... htseq_counts.txt | E9.5       | ILC2 | Uterine | CTR_fc287_0002_04
+SLX-10383.05 | SLX-10383.L2DRBC05 ... htseq_counts.txt | E9.5       | ILC2 | Uterine | CTR_fc287_0002_05
+SLX-10383.06 | SLX-10383.L2DRBC06 ... htseq_counts.txt | E9.5       | ILC2 | Uterine | CTR_fc287_0002_06
+SLX-10383.07 | SLX-10383.L2DRBC07 ... htseq_counts.txt | E18.5      | ILC2 | Uterine | CTR_fc287_0002_07
+SLX-10383.08 | SLX-10383.L2DRBC08 ... htseq_counts.txt | E18.5      | ILC2 | Uterine | CTR_fc287_0002_08
+SLX-10383.09 | SLX-10383.L2DRBC09 ... htseq_counts.txt | E18.5      | ILC2 | Uterine | CTR_fc287_0002_09
+SLX-9189.04  | SLX-9189.L2DRBC04 ... htseq_counts.txt  | Lymph_Node | ILC2 | Other   | CTR_fc287_0002_20, CTR_fc287_0002_21, CTR_fc287_0002_22
+SLX-9189.05  | SLX-9189.L2DRBC05 ... htseq_counts.txt  | Lung       | ILC2 | Other   | CTR_fc287_0002_23, CTR_fc287_0002_24, CTR_fc287_0002_25
+SLX-9189.06  | SLX-9189.L2DRBC06 ... htseq_counts.txt  | Lymph_Node | ILC2 | Other   | CTR_fc287_0002_26, CTR_fc287_0002_27, CTR_fc287_0002_28
+SLX-9189.07  | SLX-9189.L2DRBC07 ... htseq_counts.txt  | Lung       | ILC2 | Other   | CTR_fc287_0002_29, CTR_fc287_0002_30, CTR_fc287_0002_31
+SLX-9189.08  | SLX-9189.L2DRBC08 ... htseq_counts.txt  | Lymph_Node | ILC2 | Other   | CTR_fc287_0002_32, CTR_fc287_0002_33, CTR_fc287_0002_34
+SLX-9190.01  | SLX-9190.L2DRBC01 ... htseq_counts.txt  | Lung       | ILC2 | Other   | CTR_fc287_0002_35, CTR_fc287_0002_36
+
+
 ### Links ###
 
 Description   | URL
 ------------- | ----------
-Publication   | [Journal](http://) and [DOI](http://)
-Raw Data      | [European Nucleotide Archive](http://www.ebi.ac.uk/ena)
+Publication   | [Journal](http://) and [DOI](http://) <br> (To be updated on publication)
+Raw Data      | European Nucleotide Archive (ENA) <br> [PRJEB21101](http://www.ebi.ac.uk/ena/data/view/PRJEB21101)
 Colucci Group | [Colucci group website](http://moffettcoluccilab.org/francesco-colucci/)
 
 ### Contact ###
