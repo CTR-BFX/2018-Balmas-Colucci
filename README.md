@@ -54,23 +54,23 @@ Normalised reads counts        | 2017-Balmas-Colucci_DESeq2_NormalisedCounts.csv
 ### Sample Table ###
 
 
-sampleName   | condition  | cell | tissue  | ENA Unique ID
------------- | ---------- | ---- | ------- | -------------
-SLX-10383.01 | Virgin     | ILC2 | Uterine | CTR_fc287_0002_01
-SLX-10383.02 | Virgin     | ILC2 | Uterine | CTR_fc287_0002_02
-SLX-10383.03 | Virgin     | ILC2 | Uterine | CTR_fc287_0002_03
-SLX-10383.04 | E9.5       | ILC2 | Uterine | CTR_fc287_0002_04
-SLX-10383.05 | E9.5       | ILC2 | Uterine | CTR_fc287_0002_05
-SLX-10383.06 | E9.5       | ILC2 | Uterine | CTR_fc287_0002_06
-SLX-10383.07 | E18.5      | ILC2 | Uterine | CTR_fc287_0002_07
-SLX-10383.08 | E18.5      | ILC2 | Uterine | CTR_fc287_0002_08
-SLX-10383.09 | E18.5      | ILC2 | Uterine | CTR_fc287_0002_09
-SLX-9189.04  | Lymph_Node | ILC2 | Other   | CTR_fc287_0002_20, CTR_fc287_0002_21, CTR_fc287_0002_22
-SLX-9189.05  | Lung       | ILC2 | Other   | CTR_fc287_0002_23, CTR_fc287_0002_24, CTR_fc287_0002_25
-SLX-9189.06  | Lymph_Node | ILC2 | Other   | CTR_fc287_0002_26, CTR_fc287_0002_27, CTR_fc287_0002_28
-SLX-9189.07  | Lung       | ILC2 | Other   | CTR_fc287_0002_29, CTR_fc287_0002_30, CTR_fc287_0002_31
-SLX-9189.08  | Lymph_Node | ILC2 | Other   | CTR_fc287_0002_32, CTR_fc287_0002_33, CTR_fc287_0002_34
-SLX-9190.01  | Lung       | ILC2 | Other   | CTR_fc287_0002_35, CTR_fc287_0002_36
+sampleName   | condition  | cell | tissue  
+------------ | ---------- | ---- | -------  
+SLX-10383.01 | Virgin     | ILC2 | Uterine  
+SLX-10383.02 | Virgin     | ILC2 | Uterine  
+SLX-10383.03 | Virgin     | ILC2 | Uterine  
+SLX-10383.04 | E9.5       | ILC2 | Uterine  
+SLX-10383.05 | E9.5       | ILC2 | Uterine  
+SLX-10383.06 | E9.5       | ILC2 | Uterine  
+SLX-10383.07 | E18.5      | ILC2 | Uterine  
+SLX-10383.08 | E18.5      | ILC2 | Uterine  
+SLX-10383.09 | E18.5      | ILC2 | Uterine  
+SLX-9189.04  | Lymph_Node | ILC2 | Other    
+SLX-9189.05  | Lung       | ILC2 | Other    
+SLX-9189.06  | Lymph_Node | ILC2 | Other    
+SLX-9189.07  | Lung       | ILC2 | Other    
+SLX-9189.08  | Lymph_Node | ILC2 | Other    
+SLX-9190.01  | Lung       | ILC2 | Other    
 
 
 ### Links ###
@@ -78,7 +78,7 @@ SLX-9190.01  | Lung       | ILC2 | Other   | CTR_fc287_0002_35, CTR_fc287_0002_3
 Description   | URL
 ------------- | ----------
 Publication   | [Journal](http://) and [DOI](http://) <br> (To be updated on publication)
-Raw Data      | European Nucleotide Archive (ENA) <br> [PRJEB21101](http://www.ebi.ac.uk/ena/data/view/PRJEB21101)
+Raw Data      | ArrayExpress EMBL-EBI <br> Uterine [E-MTAB-5803](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5803) <br> Lung/Lymph_Node [TO ADD](https://www.ebi.ac.uk/arrayexpress/experiments/)
 Colucci Group | [Colucci group website](http://moffettcoluccilab.org/francesco-colucci/)
 
 ### Contact ###
