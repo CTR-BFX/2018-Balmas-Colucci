@@ -78,7 +78,7 @@ SLX-9190.01  | Lung       | ILC2 | Other
 Description   | URL
 ------------- | ----------
 Publication   | [Journal](http://) and [DOI](http://) <br> (To be updated on publication)
-Raw Data      | ArrayExpress EMBL-EBI <br> Uterine [E-MTAB-5803](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5803) <br> Lung/Lymph_Node [TO ADD](https://www.ebi.ac.uk/arrayexpress/experiments/)
+Raw Data      | ArrayExpress EMBL-EBI <br> Uterine [E-MTAB-5803](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5803) <br> Lung/Lymph_Node [E-MTAB-5806](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5806)
 Colucci Group | [Colucci group website](http://moffettcoluccilab.org/francesco-colucci/)
 
 ### Contact ###
