@@ -36,20 +36,20 @@ The provided R script assumes the script is placed in a directory containing a s
 
 Figure    | Description | Output Filename
 --------- | ----------- | ------------------------
-Figure 3A | PCA         | 2017-Balmas-Colucci_DESeq2_Annotated_PCA_Fig3A.pdf
-Figure 3B | MA Plot     | 2017-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Uterine_Others_Fig3B.pdf
-Figure 4A | Heatmap     | 2017-Balmas-Colucci_DESeq2_CountMatrixHeatmap_topDEGs_lf7.5sig0.05_Fig4A.pdf
-Figure 4B | MA Plot     | 2017-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Virgin_E9.5_Fig4B.pdf
-Figure 4D | MA Plot     | 2017-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Virgin_E18.5_Fig4D.pdf
+Figure 3A | PCA         | 2018-Balmas-Colucci_DESeq2_Annotated_PCA_Fig3A.pdf
+Figure 3B | MA Plot     | 2018-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Uterine_Others_Fig3B.pdf
+Figure 4A | Heatmap     | 2018-Balmas-Colucci_DESeq2_CountMatrixHeatmap_topDEGs_lf7.5sig0.05_Fig4A.pdf
+Figure 4B | MA Plot     | 2018-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Virgin_E9.5_Fig4B.pdf
+Figure 4D | MA Plot     | 2018-Balmas-Colucci_DESeq2_MA_fc5_sig0.05_res_Virgin_E18.5_Fig4D.pdf
 
 Additional Data
 
 Description                    | Output Filename
 ------------------------------ | ------------------------
-DEG Results: Uterine_vs_Others | 2017-Balmas-Colucci_DESeq2_DEGs_Uterine_vs_Others.csv
-DEG Results: Virgin_vs_E18.5   | 2017-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E18.5.csv
-DEG Results: Virgin_vs_E9.5    | 2017-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E9.5.csv
-Normalised reads counts        | 2017-Balmas-Colucci_DESeq2_NormalisedCounts.csv
+DEG Results: Uterine_vs_Others | 2018-Balmas-Colucci_DESeq2_DEGs_Uterine_vs_Others.csv
+DEG Results: Virgin_vs_E18.5   | 2018-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E18.5.csv
+DEG Results: Virgin_vs_E9.5    | 2018-Balmas-Colucci_DESeq2_DEGs_Virgin_vs_E9.5.csv
+Normalised reads counts        | 2018-Balmas-Colucci_DESeq2_NormalisedCounts.csv
 
 ### Sample Table ###
 
