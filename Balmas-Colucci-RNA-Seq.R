@@ -2,14 +2,14 @@
 
 #------------------------------------------------------------------------------
 # RNA-Seq Analysis to accompany:
-# Balmas et al (2017)
+# Balmas et al (2018)
 # Group 2 innate lymphoid cells prevent endotoxin-induced fetal demise        
 #
 # Link to publication
 # TO ADD ONCE AVAILABLE
 #
 # Script available from:
-# https://github.com/CTR-BFX/2017-Balmas-Colucci
+# https://github.com/CTR-BFX/2018-Balmas-Colucci
 #
 # CTR Code: CTR_fc287_0002 
 #
@@ -56,7 +56,7 @@ message("+----------------------------------------------------------------------
 message("+ Set up some constants e.g. base directories")
 message("+-------------------------------------------------------------------------------")
 
-Project  <- "2017-Balmas-Colucci"
+Project  <- "2018-Balmas-Colucci"
 Base.dir <- getwd() 
 setwd(Base.dir)
 HTSeq.dir <- paste(Base.dir,"/HTSeq_Counts", sep="")
