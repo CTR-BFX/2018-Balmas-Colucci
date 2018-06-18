@@ -9,6 +9,10 @@
 <sup>‡</sup> Equal contribution<br>
 <sup>§</sup> Corresponding author: fc287@medschl.cam.ac.uk <br>
 
+### Citation ###
+
+Balmas, E., Rana, B.M.J., Hamilton, R.S., Shreeve, N., Kieckbusch, J., Aye, I., Hawkes, D.A., Trotter, S., López-Tello, J., Yong, H., Valenti., S., Sferruzi-Perri, A., Gaccioli, F., McKenzie, A.N.J. & Colucci, F. (2018) Maternal group 2 innate lymphoid cells control fetal growth and protect from endotoxin-induced abortion in mice. [bioRxiv 348755](https://doi.org/10.1101/348755)
+
 ### Abstract ###
 Group 2 innate lymphoid cells (ILC2s) adapt to tissue physiology and contribute to immunity, inflammatory pathology and metabolism. We show that mouse uterine ILC2s have a heightened type-2 gene signature and expand during pregnancy. Indeed, maternal ILC2s protect against fetal growth restriction and mortality upon systemic endotoxin challenge. The absence of ILC2s leads to utero-placental abnormalities, including poor vascular remodelling, increased Il1b and decreased Il4, Il5, and Il13 gene expression, and reduced dendritic cells (DCs) and macrophage alternative activation. Placentas exhibit signs of adaptation to stress, including larger maternal blood spaces and increased expression of nutrient transporter genes. Endotoxin induces the expansion of IL-1-producing uterine DCs and, in response, more uterine ILC2s produce IL-4, IL-5 and IL-13.  In a protective feedback mechanism, these cytokines suppress IL-1-producing uterine DCs, in line with a protective role of uILC2s against endotoxin-induced abortion. Uterine ILC2s emerge as pivotal for both normal and complicated pregnancies.
 
@@ -77,7 +81,7 @@ SLX-9190.01  | Lung       | ILC2 | Other
 
 Description   | URL
 ------------- | ----------
-Publication   | [Journal](http://) and [DOI](http://) <br> (To be updated on publication)
+Publication   | [bioRxiv]([bioRxiv](https://doi.org/10.1101/348755))
 Raw Data      | ArrayExpress EMBL-EBI <br>Data to be released on publication<br>Uterine [E-MTAB-5803](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5803) <br> Lung/Lymph_Node [E-MTAB-5806](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5806)
 Colucci Group | [Colucci group website](http://moffettcoluccilab.org/francesco-colucci/)
 
